@@ -28,6 +28,28 @@ curl -LO https://raw.githubusercontent.com/bitnami/containers/main/bitnami/spark
 
 ![image](https://github.com/luiscoco/Spark_Running_in_Docker_with_bitnami_images/assets/32194879/c0275773-bb79-44bc-9740-c1a4da0a3ccd)
 
+Run this command to execute the docker-compose file
 
+```
+docker-compose up
+```
+
+![image](https://github.com/luiscoco/Spark_Running_in_Docker_with_bitnami_images/assets/32194879/c82bd928-a17e-45b9-81e6-3c56e638eb12)
+
+Once the spark docker container is running we can run the spark-shell, but first we need to download Spark to out local hard drive.
+
+## Download the Spark to out local hard drive
+
+Go to the URL: https://spark.apache.org/downloads.html
+
+![image](https://github.com/luiscoco/Spark_Running_in_Docker_with_bitnami_images/assets/32194879/86af0951-3baf-4fdc-a7eb-8f9d9781de9e)
+
+Unzip the "" file and place in C:
+
+![image](https://github.com/luiscoco/Spark_Running_in_Docker_with_bitnami_images/assets/32194879/7efa8356-1f82-4dcb-b8ac-72d0eb02e933)
+
+![image](https://github.com/luiscoco/Spark_Running_in_Docker_with_bitnami_images/assets/32194879/db9816f9-608c-4786-8db1-b6cc28e78fd2)
+
+## Run the spark-shell
 
 
