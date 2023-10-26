@@ -72,4 +72,4 @@ spark-shell spark://e7cbedd69027:7077
 
 You can see now the "scala" propmpt and you can start coding:
 
-
+![image](https://github.com/luiscoco/Spark_Running_in_Docker_with_bitnami_images/assets/32194879/6ccb4808-8e49-4369-960f-2b901a35df18)
