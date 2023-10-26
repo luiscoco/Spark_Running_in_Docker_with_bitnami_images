@@ -70,3 +70,6 @@ Then we can run the command "spark'shell", this command is inside the "C:\spark-
 spark-shell spark://e7cbedd69027:7077
 ```
 
+You can see now the "scala" propmpt and you can start coding:
+
+
