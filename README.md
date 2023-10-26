@@ -60,5 +60,13 @@ After we will see the Spark Master Web Page
 
 ![image](https://github.com/luiscoco/Spark_Running_in_Docker_with_bitnami_images/assets/32194879/5d54153e-2bbd-4c65-a93e-31df3123ca30)
 
-Then we open a command prompt as Administrator and we run this command
+Then we open a command prompt as Administrator and navigate to the bin folder inside the "C:\spark-3.5.0-bin-hadoop3"
+
+![image](https://github.com/luiscoco/Spark_Running_in_Docker_with_bitnami_images/assets/32194879/bcda282c-f140-41c9-a566-63a63227bdb1)
+
+Then we can run the command "spark'shell", this command is inside the "C:\spark-3.5.0-bin-hadoop3\bin" folder, and this command is followed by the spark master node URL
+
+```
+spark-shell spark://e7cbedd69027:7077
+```
 
