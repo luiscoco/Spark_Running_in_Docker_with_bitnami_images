@@ -1,5 +1,11 @@
 # Spark_Running_in_Docker_with_bitnami_image
 
+## What is Apache Spark?
+
+Apache Spark is a high-performance engine for large-scale computing tasks, such as data processing, machine learning and real-time data streaming. 
+
+It includes APIs for Java, Python, Scala and R.
+
 ## Open Docker Hub and pull the Spark bitnami docker images
 
 Search for "Spark" image and select the "bitnami/spark" images 
@@ -14,6 +20,12 @@ Run the command:
 
 ```
 docker pull bitnami/spark
+```
+
+or better
+
+```
+docker pull bitnami/spark:latest
 ```
 
 ## Download and run the docker-compose file
