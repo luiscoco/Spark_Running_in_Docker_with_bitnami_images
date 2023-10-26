@@ -20,7 +20,7 @@ docker pull bitnami/spark
 
 Create a folder and open the command prompt as Administrator. 
 
-Run the command:
+Run this command to download the docker-compose.yml file to our local folder:
 
 ```
 curl -LO https://raw.githubusercontent.com/bitnami/containers/main/bitnami/spark/docker-compose.yml
