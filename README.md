@@ -52,4 +52,13 @@ Unzip the "" file and place in C:
 
 ## Run the spark-shell
 
+First we go to Docker Desktop and click on the Spark Master link 
+
+![image](https://github.com/luiscoco/Spark_Running_in_Docker_with_bitnami_images/assets/32194879/6c950cdf-cec1-4700-b6e3-82c2ab4015f5)
+
+After we will see the Spark Master Web Page
+
+![image](https://github.com/luiscoco/Spark_Running_in_Docker_with_bitnami_images/assets/32194879/5d54153e-2bbd-4c65-a93e-31df3123ca30)
+
+Then we open a command prompt as Administrator and we run this command
 
